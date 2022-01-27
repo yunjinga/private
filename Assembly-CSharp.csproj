@@ -57,6 +57,7 @@
     <Compile Include="Assets\food.cs" />
     <Compile Include="Assets\player.cs" />
     <Compile Include="Assets\Treeblood.cs" />
+    <Compile Include="Assets\nengliang.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
